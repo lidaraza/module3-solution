@@ -128,14 +128,14 @@ section {
 }
 
 #nav-list {
-  color: white;
+  color: red;
 }
 
 hr {
-  border-color: white;
+  border-color: red;
 }
 
 .item {
-  color: white;
+  color: red;
   font-size: 1.2em;
 }
